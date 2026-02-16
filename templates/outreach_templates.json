@@ -1,0 +1,16 @@
+{
+  "cold_email_hr": {
+    "subject": "{role_title} at {company} — Application from Harsh Vardhan Mourya",
+    "body": "Hi {hr_name},\n\nI came across the {role_title} position at {company} and wanted to express my strong interest.\n\n{value_proposition}\n\nI've been at Zomato for 3+ years driving city-level P&L, growth strategy, and marketplace operations — most recently as Senior Program Manager owning Pune metro with $50M+ business impact. Before that, I spent 3 years at Urban Company scaling their AC services vertical to 11K+ partners.\n\n{specific_alignment}\n\nI'd love to have a brief conversation to explore if there's a fit. My resume is attached for your reference.\n\nBest regards,\nHarsh Vardhan Mourya\n+91 8639464952 | nitrharsh@gmail.com\nLinkedIn: linkedin.com/in/harshnitrr/"
+  },
+  "linkedin_connection_note": {
+    "body": "Hi {hr_name}, I'm a Sr. Program Manager at Zomato interested in the {role_title} role at {company}. {hook} Would love to connect!"
+  },
+  "linkedin_inmail": {
+    "subject": "Interested in {role_title} at {company}",
+    "body": "Hi {hr_name},\n\nI noticed the {role_title} opening at {company} and believe my experience in {relevant_skills} would be a strong fit.\n\n{value_proposition}\n\nWould you be open to a brief conversation?\n\nBest,\nHarsh"
+  },
+  "referral_request": {
+    "body": "Hey {contact_name},\n\nHope you're doing well! I noticed {company} has a {role_title} opening and since you're there, I wanted to reach out.\n\n{value_proposition}\n\nWould you be open to referring me or connecting me with the hiring manager? Happy to share my resume.\n\nThanks!\nHarsh"
+  }
+}

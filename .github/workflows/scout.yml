@@ -1,0 +1,55 @@
+name: SCOUT Daily Pipeline
+
+on:
+  schedule:
+    - cron: '30 0 * * *'  # 6:00 AM IST daily
+  workflow_dispatch:        # Manual trigger from GitHub UI
+
+permissions:
+  contents: write           # To commit data files back to repo
+
+jobs:
+  scout:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run job scraper
+        run: python scripts/scrape_jobs.py
+        env:
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+
+      - name: Run resume tailorer
+        run: python scripts/tailor_resume.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Draft outreach messages
+        run: python scripts/outreach_draft.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+
+      - name: Update dashboard stats
+        run: python scripts/update_stats.py
+
+      - name: Commit and push data
+        run: |
+          git config user.name "SCOUT Bot"
+          git config user.email "scout-bot@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "SCOUT: Daily update $(date -u +%Y-%m-%d)"
+          git push
