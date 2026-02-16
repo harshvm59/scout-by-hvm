@@ -24,6 +24,15 @@ except ImportError:
     sys.exit(1)
 
 
+def _clean(val, default=""):
+    """Clean pandas values — handle NaN, None, and non-string types."""
+    if val is None:
+        return default
+    if isinstance(val, float) and math.isnan(val):
+        return default
+    return val
+
+
 def scrape_all():
     """Run the full scraping pipeline."""
     log_entry("Starting daily job scrape")
@@ -49,18 +58,19 @@ def scrape_all():
 
                 for _, row in df.iterrows():
                     job = {}
-                    # Core fields
-                    job["title"] = row.get("title", "")
-                    job["company"] = row.get("company_name", "") or row.get("company", "")
-                    job["company_url"] = row.get("company_url", "")
-                    job["job_url"] = row.get("job_url", "")
-                    job["location"] = row.get("location", "")
-                    job["is_remote"] = bool(row.get("is_remote", False))
-                    job["description"] = row.get("description", "")
-                    job["job_type"] = row.get("job_type", "")
-                    job["source"] = row.get("site", "")
-                    job["date_posted"] = str(row.get("date_posted", ""))
-                    job["emails"] = row.get("emails", []) if isinstance(row.get("emails"), list) else []
+                    # Core fields (sanitize pandas NaN values)
+                    job["title"] = str(_clean(row.get("title"), ""))
+                    job["company"] = str(_clean(row.get("company"), "") or _clean(row.get("company_name"), ""))
+                    job["company_url"] = str(_clean(row.get("company_url"), ""))
+                    job["job_url"] = str(_clean(row.get("job_url"), ""))
+                    job["location"] = str(_clean(row.get("location"), ""))
+                    job["is_remote"] = bool(_clean(row.get("is_remote"), False))
+                    job["description"] = str(_clean(row.get("description"), ""))
+                    job["job_type"] = str(_clean(row.get("job_type"), ""))
+                    job["source"] = str(_clean(row.get("site"), ""))
+                    job["date_posted"] = str(_clean(row.get("date_posted"), ""))
+                    emails = _clean(row.get("emails"), [])
+                    job["emails"] = emails if isinstance(emails, list) else []
 
                     # Salary
                     min_amt = row.get("min_amount")

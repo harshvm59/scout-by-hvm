@@ -1,1 +1,54 @@
-{"entries":[]}
+{
+  "entries": [
+    {
+      "timestamp": "2026-02-16T10:47:41.361426+00:00",
+      "level": "info",
+      "message": "Starting daily job scrape"
+    },
+    {
+      "timestamp": "2026-02-16T10:47:46.693543+00:00",
+      "level": "error",
+      "message": "Scrape failed: 'Senior Program Manager' @ 'Pune, India': 'float' object has no attribute 'lower'"
+    },
+    {
+      "timestamp": "2026-02-16T10:47:58.394212+00:00",
+      "level": "error",
+      "message": "Scrape failed: 'Senior Program Manager' @ 'Bangalore, India': 'float' object has no attribute 'lower'"
+    },
+    {
+      "timestamp": "2026-02-16T10:48:05.894770+00:00",
+      "level": "error",
+      "message": "Scrape failed: 'Senior Program Manager' @ 'Mumbai, India': 'float' object has no attribute 'lower'"
+    },
+    {
+      "timestamp": "2026-02-16T10:48:10.184801+00:00",
+      "level": "error",
+      "message": "Scrape failed: 'Senior Program Manager' @ 'Gurgaon, India': 'float' object has no attribute 'lower'"
+    },
+    {
+      "timestamp": "2026-02-16T10:48:17.100591+00:00",
+      "level": "error",
+      "message": "Scrape failed: 'Senior Program Manager' @ 'Hyderabad, India': 'float' object has no attribute 'lower'"
+    },
+    {
+      "timestamp": "2026-02-16T10:49:19.317845+00:00",
+      "level": "info",
+      "message": "Starting daily job scrape"
+    },
+    {
+      "timestamp": "2026-02-16T10:50:46.587523+00:00",
+      "level": "error",
+      "message": "Scrape failed: 'Director of Growth' @ 'Remote': Invalid country string: 'lebanon'. Valid countries are: argentina, australia, austria, bahrain, bangladesh, belgium, bulgaria, brazil, canada, chile, china, colombia, costa rica, croatia, cyprus, czech republic,czechia, denmark, ecuador, egypt, estonia, finland, france, germany, greece, hong kong, hungary, india, indonesia, ireland, israel, italy, japan, kuwait, latvia, lithuania, luxembourg, malaysia, malta, mexico, morocco, netherlands, new zealand, nigeria, norway, oman, pakistan, panama, peru, philippines, poland, portugal, qatar, romania, saudi arabia, singapore, slovakia, slovenia, south africa, south korea, spain, sweden, switzerland, taiwan, thailand, t\u00fcrkiye,turkey, ukraine, united arab emirates, uk,united kingdom, usa,us,united states, uruguay, venezuela, vietnam, usa/ca, worldwide"
+    },
+    {
+      "timestamp": "2026-02-16T10:53:42.129168+00:00",
+      "level": "info",
+      "message": "Updating dashboard stats"
+    },
+    {
+      "timestamp": "2026-02-16T10:53:42.132300+00:00",
+      "level": "info",
+      "message": "Stats updated: 107 jobs, 0 tailored, 0 outreach sent"
+    }
+  ]
+}

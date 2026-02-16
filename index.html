@@ -87,7 +87,8 @@
         .chart-card{background:var(--card);border:1px solid var(--bdr);border-radius:16px;padding:20px;backdrop-filter:blur(20px)}
         .chart-card.wide{grid-column:span 2}
         .cc-title{font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--w4);margin-bottom:16px;font-weight:700}
-        .cc-canvas{width:100%;height:220px}
+        .cc-canvas-wrap{width:100%;height:220px;position:relative}
+        .cc-canvas-wrap canvas{position:absolute;inset:0}
 
         /* ═══════════ FUNNEL ═══════════ */
         .funnel{display:flex;gap:0;margin-bottom:32px;position:relative}
@@ -229,7 +230,7 @@
         <button class="fb" data-source="linkedin">LinkedIn</button>
         <button class="fb" data-source="indeed">Indeed</button>
         <button class="fb" data-source="google">Google</button>
-        <button class="fb" data-source="glassdoor">Glassdoor</button>
+        <button class="fb" data-source="naukri">Naukri</button>
     </div>
 </nav>
 
@@ -325,23 +326,23 @@
         <div class="chart-grid">
             <div class="chart-card wide">
                 <div class="cc-title">Daily Activity</div>
-                <canvas class="cc-canvas" id="chartActivity"></canvas>
+                <div class="cc-canvas-wrap"><canvas id="chartActivity"></canvas></div>
             </div>
             <div class="chart-card">
                 <div class="cc-title">Score Distribution</div>
-                <canvas class="cc-canvas" id="chartScores"></canvas>
+                <div class="cc-canvas-wrap"><canvas id="chartScores"></canvas></div>
             </div>
             <div class="chart-card">
                 <div class="cc-title">Jobs by Source</div>
-                <canvas class="cc-canvas" id="chartSources"></canvas>
+                <div class="cc-canvas-wrap"><canvas id="chartSources"></canvas></div>
             </div>
             <div class="chart-card">
                 <div class="cc-title">Top Locations</div>
-                <canvas class="cc-canvas" id="chartLocations"></canvas>
+                <div class="cc-canvas-wrap"><canvas id="chartLocations"></canvas></div>
             </div>
             <div class="chart-card wide">
                 <div class="cc-title">Top Companies</div>
-                <canvas class="cc-canvas" id="chartCompanies"></canvas>
+                <div class="cc-canvas-wrap"><canvas id="chartCompanies"></canvas></div>
             </div>
         </div>
     </div>
@@ -425,7 +426,7 @@ function loadDemoData() {
     const companies = ['Flipkart','Swiggy','Razorpay','PhonePe','CRED','Meesho','Groww','Zerodha','Myntra','Paytm','Google India','Amazon India','Microsoft','Dream11','Nykaa'];
     const roles = ['Senior Program Manager','Director of Growth','Head of Strategy & Ops','Product Strategy Lead','Business Head','Growth Lead','Category Head','P&L Manager','Senior PM - Marketplace','AI Operations Lead'];
     const locations = ['Bangalore','Mumbai','Pune','Gurgaon','Hyderabad','Delhi','Remote'];
-    const sources = ['linkedin','indeed','google','glassdoor'];
+    const sources = ['linkedin','indeed','google','linkedin','indeed'];
     const statuses = ['new','new','new','tailored','tailored','outreach','applied'];
 
     STATE.jobs = Array.from({length: 120}, (_, i) => {
@@ -459,7 +460,7 @@ function loadDemoData() {
         hero: { total_jobs: 120, new_today: 18, resumes_tailored: 42, outreach_sent: 8, outreach_pending: 12, tailored_files: 42 },
         funnel: { discovered: 120, relevant_50plus: 78, tailored: 42, outreach_drafted: 20, outreach_sent: 8, applied: 3, interview: 1 },
         score_distribution: { '90-100': 8, '70-89': 25, '50-69': 45, '30-49': 32, '0-29': 10 },
-        source_breakdown: { linkedin: 45, indeed: 30, google: 28, glassdoor: 17 },
+        source_breakdown: { linkedin: 50, indeed: 35, google: 35 },
         location_breakdown: { Bangalore: 35, Mumbai: 25, Pune: 22, Gurgaon: 18, Hyderabad: 12, Delhi: 5, Remote: 3 },
         daily_activity: Array.from({length: 14}, (_, i) => {
             const d = new Date(); d.setDate(d.getDate() - 13 + i);
@@ -499,7 +500,7 @@ function render() {
     renderHero();
     renderFunnel();
     renderJobs();
-    renderCharts();
+    // Charts are rendered on-demand when Analytics tab is clicked (Chart.js needs visible canvas)
     renderOutreach();
     renderLog();
 }
@@ -702,15 +703,24 @@ function copyJD(jobId) {
 function goPage(p) { STATE.page = p; renderJobs(); window.scrollTo({top: 400, behavior: 'smooth'}); }
 
 // ── Charts ─────────────────────────────────────────────────
+let chartsRendered = false;
 function renderCharts() {
     const s = STATE.stats;
     if (!s) return;
 
-    Object.values(STATE.charts).forEach(c => c.destroy());
+    // Destroy existing charts
+    Object.values(STATE.charts).forEach(c => { try { c.destroy(); } catch(e){} });
     STATE.charts = {};
 
-    const chartOpts = { responsive: true, maintainAspectRatio: false, plugins: { legend: { labels: { color: '#666', font: { size: 10, family: 'Inter' } } } }, scales: {} };
+    const chartOpts = {
+        responsive: true,
+        maintainAspectRatio: false,
+        animation: { duration: chartsRendered ? 0 : 800 },
+        plugins: { legend: { labels: { color: '#666', font: { size: 10, family: 'Inter' } } } },
+        scales: {}
+    };
     const axisOpts = { ticks: { color: '#444', font: { size: 9 } }, grid: { color: 'rgba(255,255,255,.04)' } };
+    chartsRendered = true;
 
     // Daily Activity
     if (s.daily_activity) {
@@ -887,8 +897,19 @@ document.querySelectorAll('.view-tab').forEach(tab => {
         document.querySelectorAll('.view-tab').forEach(t => t.classList.remove('active'));
         document.querySelectorAll('.view-panel').forEach(p => p.classList.remove('active'));
         tab.classList.add('active');
-        document.getElementById('view-' + tab.dataset.view).classList.add('active');
-        if (tab.dataset.view === 'charts') setTimeout(renderCharts, 100);
+        const panel = document.getElementById('view-' + tab.dataset.view);
+        panel.classList.add('active');
+        if (tab.dataset.view === 'charts') {
+            // Chart.js needs the canvas to be visible and have real dimensions
+            // Use requestAnimationFrame to ensure the panel is painted first
+            requestAnimationFrame(() => {
+                requestAnimationFrame(() => {
+                    renderCharts();
+                    // Force resize all charts after render
+                    Object.values(STATE.charts).forEach(c => c.resize());
+                });
+            });
+        }
     });
 });
 

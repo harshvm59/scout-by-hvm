@@ -29,11 +29,10 @@ LOCATIONS = [
     "Gurgaon, India",
     "Hyderabad, India",
     "Delhi, India",
-    "Remote",
 ]
 
 # ── Job Sites ───────────────────────────────────────────────────
-SITES = ["linkedin", "indeed", "glassdoor", "google"]
+SITES = ["linkedin", "indeed", "google"]
 
 # ── Relevance Scoring ──────────────────────────────────────────
 TITLE_KEYWORDS_HIGH = [

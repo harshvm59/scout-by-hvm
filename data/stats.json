@@ -1,1 +1,196 @@
-{}
+{
+  "last_updated": "2026-02-16T10:53:42.131909+00:00",
+  "hero": {
+    "total_jobs": 107,
+    "new_today": 107,
+    "resumes_tailored": 0,
+    "outreach_sent": 0,
+    "outreach_pending": 0,
+    "tailored_files": 0
+  },
+  "funnel": {
+    "discovered": 107,
+    "relevant_50plus": 23,
+    "tailored": 0,
+    "outreach_drafted": 0,
+    "outreach_sent": 0,
+    "applied": 0,
+    "interview": 0
+  },
+  "score_distribution": {
+    "90-100": 0,
+    "70-89": 2,
+    "50-69": 21,
+    "30-49": 84,
+    "0-29": 0
+  },
+  "source_breakdown": {
+    "indeed": 103,
+    "linkedin": 4
+  },
+  "location_breakdown": {
+    "MH": 58,
+    "KA": 43,
+    "Bengaluru": 3,
+    "VV Puram": 1,
+    "Jayanagar 2nd Block": 1,
+    "Mumbai": 1
+  },
+  "status_pipeline": {
+    "new": 107
+  },
+  "daily_activity": [
+    {
+      "date": "2026-02-03",
+      "jobs_found": 0,
+      "resumes_tailored": 0,
+      "outreach_drafted": 0
+    },
+    {
+      "date": "2026-02-04",
+      "jobs_found": 0,
+      "resumes_tailored": 0,
+      "outreach_drafted": 0
+    },
+    {
+      "date": "2026-02-05",
+      "jobs_found": 0,
+      "resumes_tailored": 0,
+      "outreach_drafted": 0
+    },
+    {
+      "date": "2026-02-06",
+      "jobs_found": 0,
+      "resumes_tailored": 0,
+      "outreach_drafted": 0
+    },
+    {
+      "date": "2026-02-07",
+      "jobs_found": 0,
+      "resumes_tailored": 0,
+      "outreach_drafted": 0
+    },
+    {
+      "date": "2026-02-08",
+      "jobs_found": 0,
+      "resumes_tailored": 0,
+      "outreach_drafted": 0
+    },
+    {
+      "date": "2026-02-09",
+      "jobs_found": 0,
+      "resumes_tailored": 0,
+      "outreach_drafted": 0
+    },
+    {
+      "date": "2026-02-10",
+      "jobs_found": 0,
+      "resumes_tailored": 0,
+      "outreach_drafted": 0
+    },
+    {
+      "date": "2026-02-11",
+      "jobs_found": 0,
+      "resumes_tailored": 0,
+      "outreach_drafted": 0
+    },
+    {
+      "date": "2026-02-12",
+      "jobs_found": 0,
+      "resumes_tailored": 0,
+      "outreach_drafted": 0
+    },
+    {
+      "date": "2026-02-13",
+      "jobs_found": 0,
+      "resumes_tailored": 0,
+      "outreach_drafted": 0
+    },
+    {
+      "date": "2026-02-14",
+      "jobs_found": 0,
+      "resumes_tailored": 0,
+      "outreach_drafted": 0
+    },
+    {
+      "date": "2026-02-15",
+      "jobs_found": 0,
+      "resumes_tailored": 0,
+      "outreach_drafted": 0
+    },
+    {
+      "date": "2026-02-16",
+      "jobs_found": 107,
+      "resumes_tailored": 0,
+      "outreach_drafted": 0
+    }
+  ],
+  "top_companies": [
+    {
+      "company": "Amazon.com",
+      "count": 10
+    },
+    {
+      "company": "Amazon Web Services",
+      "count": 4
+    },
+    {
+      "company": "NiCE Actimize",
+      "count": 4
+    },
+    {
+      "company": "Deutsche Bank",
+      "count": 3
+    },
+    {
+      "company": "",
+      "count": 3
+    },
+    {
+      "company": "PwC",
+      "count": 3
+    },
+    {
+      "company": "Fluence Energy",
+      "count": 3
+    },
+    {
+      "company": "Intuit",
+      "count": 2
+    },
+    {
+      "company": "HSBC",
+      "count": 2
+    },
+    {
+      "company": "Quest Global",
+      "count": 2
+    },
+    {
+      "company": "The Betel Leaf",
+      "count": 2
+    },
+    {
+      "company": "smiles.ai",
+      "count": 2
+    },
+    {
+      "company": "Eaton",
+      "count": 2
+    },
+    {
+      "company": "Rippling",
+      "count": 1
+    },
+    {
+      "company": "HR Creations",
+      "count": 1
+    }
+  ],
+  "salary": {
+    "average": 0,
+    "max": 0,
+    "min": 0,
+    "jobs_with_salary": 0
+  }
+}

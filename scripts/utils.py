@@ -5,6 +5,7 @@ Deduplication, relevance scoring, JSON I/O, logging
 
 import hashlib
 import json
+import math
 import os
 from datetime import datetime, timezone
 
@@ -50,14 +51,23 @@ def today_str():
     return datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
 
+def _safe_str(val):
+    """Convert any value to string safely, handling NaN/None from pandas."""
+    if val is None:
+        return ""
+    if isinstance(val, float) and math.isnan(val):
+        return ""
+    return str(val)
+
+
 def score_relevance(job, config):
     """
     Score a job 0-100 for relevance to Harsh's profile.
     Higher = more relevant.
     """
     score = 0
-    title = (job.get("title") or "").lower()
-    description = (job.get("description") or "").lower()
+    title = _safe_str(job.get("title")).lower()
+    description = _safe_str(job.get("description")).lower()
     text = f"{title} {description}"
 
     # ── Title keyword matching (max 40 pts) ──
