@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-02-16T10:53:42.131909+00:00",
+  "last_updated": "2026-02-17T05:49:35.439381+00:00",
   "hero": {
-    "total_jobs": 107,
-    "new_today": 107,
-    "resumes_tailored": 0,
+    "total_jobs": 427,
+    "new_today": 357,
+    "resumes_tailored": 20,
     "outreach_sent": 0,
     "outreach_pending": 0,
-    "tailored_files": 0
+    "tailored_files": 20
   },
   "funnel": {
-    "discovered": 107,
-    "relevant_50plus": 23,
-    "tailored": 0,
+    "discovered": 427,
+    "relevant_50plus": 74,
+    "tailored": 20,
     "outreach_drafted": 0,
     "outreach_sent": 0,
     "applied": 0,
@@ -20,32 +20,30 @@
   "score_distribution": {
     "90-100": 0,
     "70-89": 2,
-    "50-69": 21,
-    "30-49": 84,
+    "50-69": 72,
+    "30-49": 353,
     "0-29": 0
   },
   "source_breakdown": {
-    "indeed": 103,
-    "linkedin": 4
+    "indeed": 402,
+    "linkedin": 25
   },
   "location_breakdown": {
-    "MH": 58,
-    "KA": 43,
-    "Bengaluru": 3,
-    "VV Puram": 1,
-    "Jayanagar 2nd Block": 1,
-    "Mumbai": 1
+    "MH": 143,
+    "KA": 117,
+    "TS": 52,
+    "DL": 30,
+    "HR": 27,
+    "UP": 24,
+    "Bengaluru": 10,
+    "Gurugram": 2,
+    "Greater Noida": 2,
+    "Pune": 2
   },
   "status_pipeline": {
-    "new": 107
+    "new": 427
   },
   "daily_activity": [
-    {
-      "date": "2026-02-03",
-      "jobs_found": 0,
-      "resumes_tailored": 0,
-      "outreach_drafted": 0
-    },
     {
       "date": "2026-02-04",
       "jobs_found": 0,
@@ -120,71 +118,77 @@
     },
     {
       "date": "2026-02-16",
-      "jobs_found": 107,
-      "resumes_tailored": 0,
+      "jobs_found": 70,
+      "resumes_tailored": 4,
+      "outreach_drafted": 0
+    },
+    {
+      "date": "2026-02-17",
+      "jobs_found": 357,
+      "resumes_tailored": 16,
       "outreach_drafted": 0
     }
   ],
   "top_companies": [
     {
       "company": "Amazon.com",
-      "count": 10
+      "count": 40
     },
     {
-      "company": "Amazon Web Services",
-      "count": 4
+      "company": "Genpact",
+      "count": 13
     },
     {
-      "company": "NiCE Actimize",
-      "count": 4
+      "company": "Smart Joules",
+      "count": 9
+    },
+    {
+      "company": "Accenture",
+      "count": 9
     },
     {
       "company": "Deutsche Bank",
-      "count": 3
+      "count": 8
     },
     {
       "company": "",
-      "count": 3
+      "count": 7
     },
     {
-      "company": "PwC",
-      "count": 3
+      "company": "JLL",
+      "count": 7
     },
     {
-      "company": "Fluence Energy",
-      "count": 3
+      "company": "Procore Technologies",
+      "count": 7
     },
     {
-      "company": "Intuit",
-      "count": 2
+      "company": "Brisk Olive Business Solutions Pvt Ltd",
+      "count": 5
     },
     {
-      "company": "HSBC",
-      "count": 2
-    },
-    {
-      "company": "Quest Global",
-      "count": 2
-    },
-    {
-      "company": "The Betel Leaf",
-      "count": 2
+      "company": "Amazon Web Services",
+      "count": 5
     },
     {
       "company": "smiles.ai",
-      "count": 2
+      "count": 5
     },
     {
-      "company": "Eaton",
-      "count": 2
+      "company": "Infosys",
+      "count": 4
     },
     {
-      "company": "Rippling",
-      "count": 1
+      "company": "PwC",
+      "count": 4
     },
     {
-      "company": "HR Creations",
-      "count": 1
+      "company": "Microsoft",
+      "count": 4
+    },
+    {
+      "company": "Deloitte",
+      "count": 4
     }
   ],
   "salary": {
