@@ -1,746 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-02-16T10:47:41.361426+00:00",
-      "level": "info",
-      "message": "Starting daily job scrape"
-    },
-    {
-      "timestamp": "2026-02-16T10:47:46.693543+00:00",
-      "level": "error",
-      "message": "Scrape failed: 'Senior Program Manager' @ 'Pune, India': 'float' object has no attribute 'lower'"
-    },
-    {
-      "timestamp": "2026-02-16T10:47:58.394212+00:00",
-      "level": "error",
-      "message": "Scrape failed: 'Senior Program Manager' @ 'Bangalore, India': 'float' object has no attribute 'lower'"
-    },
-    {
-      "timestamp": "2026-02-16T10:48:05.894770+00:00",
-      "level": "error",
-      "message": "Scrape failed: 'Senior Program Manager' @ 'Mumbai, India': 'float' object has no attribute 'lower'"
-    },
-    {
-      "timestamp": "2026-02-16T10:48:10.184801+00:00",
-      "level": "error",
-      "message": "Scrape failed: 'Senior Program Manager' @ 'Gurgaon, India': 'float' object has no attribute 'lower'"
-    },
-    {
-      "timestamp": "2026-02-16T10:48:17.100591+00:00",
-      "level": "error",
-      "message": "Scrape failed: 'Senior Program Manager' @ 'Hyderabad, India': 'float' object has no attribute 'lower'"
-    },
-    {
-      "timestamp": "2026-02-16T10:49:19.317845+00:00",
-      "level": "info",
-      "message": "Starting daily job scrape"
-    },
-    {
-      "timestamp": "2026-02-16T10:50:46.587523+00:00",
-      "level": "error",
-      "message": "Scrape failed: 'Director of Growth' @ 'Remote': Invalid country string: 'lebanon'. Valid countries are: argentina, australia, austria, bahrain, bangladesh, belgium, bulgaria, brazil, canada, chile, china, colombia, costa rica, croatia, cyprus, czech republic,czechia, denmark, ecuador, egypt, estonia, finland, france, germany, greece, hong kong, hungary, india, indonesia, ireland, israel, italy, japan, kuwait, latvia, lithuania, luxembourg, malaysia, malta, mexico, morocco, netherlands, new zealand, nigeria, norway, oman, pakistan, panama, peru, philippines, poland, portugal, qatar, romania, saudi arabia, singapore, slovakia, slovenia, south africa, south korea, spain, sweden, switzerland, taiwan, thailand, t\u00fcrkiye,turkey, ukraine, united arab emirates, uk,united kingdom, usa,us,united states, uruguay, venezuela, vietnam, usa/ca, worldwide"
-    },
-    {
-      "timestamp": "2026-02-16T10:53:42.129168+00:00",
-      "level": "info",
-      "message": "Updating dashboard stats"
-    },
-    {
-      "timestamp": "2026-02-16T10:53:42.132300+00:00",
-      "level": "info",
-      "message": "Stats updated: 107 jobs, 0 tailored, 0 outreach sent"
-    },
-    {
-      "timestamp": "2026-02-17T05:38:19.248370+00:00",
-      "level": "info",
-      "message": "Starting daily job scrape"
-    },
-    {
-      "timestamp": "2026-02-17T05:49:26.516113+00:00",
-      "level": "info",
-      "message": "Scrape complete: 357 new jobs found, 427 total after dedup, 0 errors"
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.234747+00:00",
-      "level": "info",
-      "message": "Starting resume tailoring"
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.295623+00:00",
-      "level": "error",
-      "message": "Summary tailoring failed for Rippling/Director of Product, Benefits Marketplace & PEO: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.317820+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.339693+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.361560+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.386974+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.422576+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.444079+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.465553+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.488675+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.511009+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.533322+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.555609+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.577359+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.609278+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.630974+00:00",
-      "level": "error",
-      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.652560+00:00",
-      "level": "error",
-      "message": "Summary tailoring failed for Deutsche Bank/Operations Senior Lead, VP: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.674461+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.695612+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.716929+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.738205+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.759488+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.780600+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.802480+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.833651+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.855008+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.876343+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.897641+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.918885+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.940156+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.961319+00:00",
-      "level": "error",
-      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:27.982984+00:00",
-      "level": "error",
-      "message": "Summary tailoring failed for TecOrb Technologies/Senior Lead Generation Executive (LGE-02): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.004938+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.037087+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.058498+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.079948+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.101273+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.122530+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.143730+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.165479+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.186719+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.208779+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.231045+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.270542+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.291867+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.313343+00:00",
-      "level": "error",
-      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.335002+00:00",
-      "level": "error",
-      "message": "Summary tailoring failed for Genpact/Senior Principal Consultant- Business Analyst (Agentic -Capture): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.356254+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.377494+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.399814+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.421097+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.442402+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.497122+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.518576+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.540137+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.561467+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.582917+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.604222+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.625714+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.647073+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.676512+00:00",
-      "level": "error",
-      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.698348+00:00",
-      "level": "error",
-      "message": "Summary tailoring failed for Iris Software/Senior Business Analyst: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.719886+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.741399+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.762777+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.784165+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.805531+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.826978+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.857067+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.879010+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.900434+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.921834+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.943426+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.964821+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:28.985876+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.007246+00:00",
-      "level": "error",
-      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.029013+00:00",
-      "level": "error",
-      "message": "Summary tailoring failed for /Category Lead \u2013 C2C Services Marketplace: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.058414+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.080432+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.101872+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.123301+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.144740+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.166163+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.187498+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.208908+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.230375+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.251583+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.281091+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.302616+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.324071+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.345518+00:00",
-      "level": "error",
-      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.367485+00:00",
-      "level": "error",
-      "message": "Summary tailoring failed for HR Creations/Head of Content & Programming - Media & Entertainment: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.389016+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.410435+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.431881+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.461567+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.483819+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.505507+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.527078+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.548574+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.570175+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.591634+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.613204+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.634650+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.656121+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.686764+00:00",
-      "level": "error",
-      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.708858+00:00",
-      "level": "error",
-      "message": "Summary tailoring failed for ProcDNA/Senior Engagement Lead - Omnichannel Analytics: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.730615+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.752315+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.775667+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.798792+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.822134+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.844886+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.874897+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.896722+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.918466+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.940170+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.961809+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:29.983432+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:30.005041+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:30.027364+00:00",
-      "level": "error",
-      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:30.058356+00:00",
-      "level": "error",
-      "message": "Summary tailoring failed for Sumo Logic/Senior Product Manager - Platform Efficiency & COGS: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:30.080847+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:30.102681+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:30.124435+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:30.146169+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:30.167936+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:30.189689+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:30.211266+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:30.232833+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:30.263124+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:30.285670+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:30.307545+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:30.329324+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:30.350995+00:00",
-      "level": "error",
-      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
-      "timestamp": "2026-02-17T05:49:30.372802+00:00",
-      "level": "error",
-      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
-    },
-    {
       "timestamp": "2026-02-17T05:49:30.395462+00:00",
       "level": "error",
       "message": "Summary tailoring failed for M&G plc/AVP - Senior Lead Engineer \u2013 Investment Platform: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
@@ -1644,6 +904,1601 @@
       "timestamp": "2026-02-17T05:49:35.440332+00:00",
       "level": "info",
       "message": "Stats updated: 427 jobs, 20 tailored, 0 outreach sent"
+    },
+    {
+      "timestamp": "2026-02-18T05:40:48.708549+00:00",
+      "level": "info",
+      "message": "Starting daily job scrape"
+    },
+    {
+      "timestamp": "2026-02-18T05:52:22.148459+00:00",
+      "level": "info",
+      "message": "Scrape complete: 381 new jobs found, 772 total after dedup, 0 errors"
+    },
+    {
+      "timestamp": "2026-02-18T05:52:22.703896+00:00",
+      "level": "info",
+      "message": "Starting resume tailoring"
+    },
+    {
+      "timestamp": "2026-02-18T05:52:22.779219+00:00",
+      "level": "error",
+      "message": "Summary tailoring failed for M&G plc/AVP - Senior Lead Engineer - Data: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:22.802213+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:22.824821+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:22.847577+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:22.870370+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:22.895047+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:22.917377+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:22.939575+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:22.961674+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:22.983753+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.006544+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.031755+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.054261+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.076495+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.098588+00:00",
+      "level": "error",
+      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.122815+00:00",
+      "level": "error",
+      "message": "Summary tailoring failed for Reckitt/IT&D Senior Business Analyst: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.146926+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.169390+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.191886+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.214036+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.236178+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.259053+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.284254+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.306703+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.329731+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.352266+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.374519+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.397285+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.422992+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.445479+00:00",
+      "level": "error",
+      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.468119+00:00",
+      "level": "error",
+      "message": "Summary tailoring failed for Rockwell Automation/Asia Pacific Business Manager, Production Operations Software: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.490746+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.513227+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.537442+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.559954+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.582353+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.604715+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.627109+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.650204+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.674821+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.697655+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.720016+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.742261+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.765165+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.789917+00:00",
+      "level": "error",
+      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.812735+00:00",
+      "level": "error",
+      "message": "Summary tailoring failed for Standard Chartered Bank/Senior Manager, Product Control: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.835295+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.857924+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.883238+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.906012+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.928547+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.952410+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.974874+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:23.997773+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.022608+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.045140+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.067730+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.090258+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.113178+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.137903+00:00",
+      "level": "error",
+      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.160850+00:00",
+      "level": "error",
+      "message": "Summary tailoring failed for RiverForest Connections Inc/Senior Program Manager- Global Research & Risk Solution: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.183565+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.206048+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.237230+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.259728+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.282124+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.304519+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.326928+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.351510+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.374026+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.398708+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.421176+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.443553+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.468154+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.490874+00:00",
+      "level": "error",
+      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.513674+00:00",
+      "level": "error",
+      "message": "Summary tailoring failed for Amazon.com/Senior Product Manager, Customer Experience: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.536397+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.560626+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.583215+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.605764+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.628145+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.652678+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.675386+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.698188+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.720643+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.743043+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.767562+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.790327+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.813238+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.835915+00:00",
+      "level": "error",
+      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.858969+00:00",
+      "level": "error",
+      "message": "Summary tailoring failed for Amazon.com/Senior Product Manager - Tech: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.883837+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.906490+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.929088+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.951666+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.976096+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:24.998916+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.021682+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.044519+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.067094+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.091724+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.114596+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.137253+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.159986+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.182838+00:00",
+      "level": "error",
+      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.207622+00:00",
+      "level": "error",
+      "message": "Summary tailoring failed for Amazon.com/Senior Product Manager - Tech, Amazon Appstore: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.230269+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.252964+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.275569+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.300070+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.322891+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.345599+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.368171+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.392855+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.415660+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.438797+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.461963+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.492953+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.515846+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.538597+00:00",
+      "level": "error",
+      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.563220+00:00",
+      "level": "error",
+      "message": "Summary tailoring failed for Amazon.com/Senior Product Manager - Tech: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.586098+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.608887+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.631631+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.654252+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.678638+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.701795+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.724521+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.747339+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.771776+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.794572+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.817372+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.840058+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.864799+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.893965+00:00",
+      "level": "error",
+      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.917139+00:00",
+      "level": "error",
+      "message": "Summary tailoring failed for The Coca-Cola Company/Director - Innovation & Category Finance: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.941334+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.964241+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:25.987044+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.009725+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.034403+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.057343+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.080156+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.102891+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.127578+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.150476+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.173582+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.196477+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.221098+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.244093+00:00",
+      "level": "error",
+      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.267358+00:00",
+      "level": "error",
+      "message": "Summary tailoring failed for Genpact/Lead Consultant, Senior QA: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.291610+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.314729+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.337698+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.362076+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.385439+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.408361+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.431354+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.455692+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.479003+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.502084+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.525203+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.556509+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.579733+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.602849+00:00",
+      "level": "error",
+      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.626284+00:00",
+      "level": "error",
+      "message": "Summary tailoring failed for Genpact/Senior Principal Consultant \u2013 .NET + Azure: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.650498+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.673525+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.696622+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.721091+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.744465+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.767516+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.790484+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.815049+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.838247+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.861561+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.884630+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.909091+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.932306+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.955408+00:00",
+      "level": "error",
+      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:26.978653+00:00",
+      "level": "error",
+      "message": "Summary tailoring failed for Iris Software/Business Analyst - Lead: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.002861+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.025934+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.048810+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.073156+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.096473+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.119603+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.142602+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.166927+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.190441+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.213504+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.236474+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.261151+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.284497+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.307776+00:00",
+      "level": "error",
+      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.331270+00:00",
+      "level": "error",
+      "message": "Summary tailoring failed for Microsoft/Senior Product Manager: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.355705+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.379199+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.402160+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.426703+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.450026+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.473086+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.496246+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.520802+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.544227+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.567290+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.590506+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.621778+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.645374+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.668514+00:00",
+      "level": "error",
+      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.691939+00:00",
+      "level": "error",
+      "message": "Summary tailoring failed for HSBC/Physical Security Integrated Security Operations Centre/AVP ISOC Lead: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.716397+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.739482+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.762510+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.787027+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.810369+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.833626+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.856780+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.881340+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.904615+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.927635+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.950650+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.975120+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:27.998370+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.021478+00:00",
+      "level": "error",
+      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.045044+00:00",
+      "level": "error",
+      "message": "Summary tailoring failed for Maven Silicon/Head \u2013 Institutional Business (Higher Education & Universities): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.069760+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.093086+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.116107+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.141282+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.165158+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.188668+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.211940+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.236616+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.260034+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.283175+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.306174+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.330894+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.354233+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.377614+00:00",
+      "level": "error",
+      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.401107+00:00",
+      "level": "error",
+      "message": "Summary tailoring failed for Optum/Senior Product Manager: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.425535+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.448705+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.471681+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.496266+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.519794+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.542929+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.566013+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.590470+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.613932+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.636982+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.660077+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.692411+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.716001+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.739123+00:00",
+      "level": "error",
+      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.762494+00:00",
+      "level": "error",
+      "message": "Summary tailoring failed for /AVP / VP \u2013 Product & Technology Innovation: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.786835+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.809976+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.832994+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.857848+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.881263+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.904360+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.927387+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.951926+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.975215+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:28.998287+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.021355+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.045862+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.069205+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.092480+00:00",
+      "level": "error",
+      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.115849+00:00",
+      "level": "error",
+      "message": "Summary tailoring failed for Amazon.com/Principal Product Manager, ASA: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.140149+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.163204+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.186350+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.210854+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.234185+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.257401+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.280430+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.304993+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.328358+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.351488+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.374600+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.399609+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.422964+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.446104+00:00",
+      "level": "error",
+      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.469530+00:00",
+      "level": "error",
+      "message": "Summary tailoring failed for Amazon.com/Senior Program Manager, RBS BQA: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.494063+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.517086+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.540024+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.564669+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.587997+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.611101+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.634285+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.658817+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.682274+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.705652+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.728716+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.760191+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.783550+00:00",
+      "level": "error",
+      "message": "Bullet tailoring failed: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.806746+00:00",
+      "level": "error",
+      "message": "Skills reorder failed (keeping original): \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:29.838628+00:00",
+      "level": "info",
+      "message": "Tailoring complete: 20/20 resumes tailored"
+    },
+    {
+      "timestamp": "2026-02-18T05:52:30.577572+00:00",
+      "level": "info",
+      "message": "Starting outreach drafting"
+    },
+    {
+      "timestamp": "2026-02-18T05:52:30.652334+00:00",
+      "level": "error",
+      "message": "Outreach draft failed for M&G plc: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:30.676016+00:00",
+      "level": "error",
+      "message": "Outreach draft failed for Rippling: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:30.699525+00:00",
+      "level": "error",
+      "message": "Outreach draft failed for Deutsche Bank: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:30.723468+00:00",
+      "level": "error",
+      "message": "Outreach draft failed for TecOrb Technologies: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:30.747659+00:00",
+      "level": "error",
+      "message": "Outreach draft failed for Genpact: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:30.770766+00:00",
+      "level": "error",
+      "message": "Outreach draft failed for Iris Software: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:30.804184+00:00",
+      "level": "error",
+      "message": "Outreach draft failed for Reckitt: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:30.829364+00:00",
+      "level": "error",
+      "message": "Outreach draft failed for : \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:30.852839+00:00",
+      "level": "error",
+      "message": "Outreach draft failed for HR Creations: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:30.881557+00:00",
+      "level": "error",
+      "message": "Outreach draft failed for ProcDNA: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+    },
+    {
+      "timestamp": "2026-02-18T05:52:30.919507+00:00",
+      "level": "warning",
+      "message": "Gmail credentials not configured, skipping email sending"
+    },
+    {
+      "timestamp": "2026-02-18T05:52:30.922363+00:00",
+      "level": "info",
+      "message": "Outreach complete: 0 new drafts, 0 emails sent"
+    },
+    {
+      "timestamp": "2026-02-18T05:52:31.018922+00:00",
+      "level": "info",
+      "message": "Updating dashboard stats"
+    },
+    {
+      "timestamp": "2026-02-18T05:52:31.042256+00:00",
+      "level": "info",
+      "message": "Stats updated: 772 jobs, 36 tailored, 0 outreach sent"
     }
   ]
 }

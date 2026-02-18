@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-02-17T05:49:35.439381+00:00",
+  "last_updated": "2026-02-18T05:52:31.041162+00:00",
   "hero": {
-    "total_jobs": 427,
-    "new_today": 357,
-    "resumes_tailored": 20,
+    "total_jobs": 772,
+    "new_today": 381,
+    "resumes_tailored": 36,
     "outreach_sent": 0,
     "outreach_pending": 0,
-    "tailored_files": 20
+    "tailored_files": 40
   },
   "funnel": {
-    "discovered": 427,
-    "relevant_50plus": 74,
-    "tailored": 20,
+    "discovered": 772,
+    "relevant_50plus": 116,
+    "tailored": 36,
     "outreach_drafted": 0,
     "outreach_sent": 0,
     "applied": 0,
@@ -19,37 +19,31 @@
   },
   "score_distribution": {
     "90-100": 0,
-    "70-89": 2,
-    "50-69": 72,
-    "30-49": 353,
+    "70-89": 3,
+    "50-69": 113,
+    "30-49": 656,
     "0-29": 0
   },
   "source_breakdown": {
-    "indeed": 402,
-    "linkedin": 25
+    "indeed": 716,
+    "linkedin": 56
   },
   "location_breakdown": {
-    "MH": 143,
-    "KA": 117,
-    "TS": 52,
-    "DL": 30,
-    "HR": 27,
-    "UP": 24,
-    "Bengaluru": 10,
-    "Gurugram": 2,
-    "Greater Noida": 2,
-    "Pune": 2
+    "MH": 252,
+    "KA": 181,
+    "TS": 109,
+    "HR": 64,
+    "DL": 59,
+    "UP": 41,
+    "Bengaluru": 20,
+    "Mumbai": 8,
+    "Unknown": 7,
+    "Hyderabad": 6
   },
   "status_pipeline": {
-    "new": 427
+    "new": 772
   },
   "daily_activity": [
-    {
-      "date": "2026-02-04",
-      "jobs_found": 0,
-      "resumes_tailored": 0,
-      "outreach_drafted": 0
-    },
     {
       "date": "2026-02-05",
       "jobs_found": 0,
@@ -119,76 +113,82 @@
     {
       "date": "2026-02-16",
       "jobs_found": 70,
-      "resumes_tailored": 4,
+      "resumes_tailored": 5,
       "outreach_drafted": 0
     },
     {
       "date": "2026-02-17",
-      "jobs_found": 357,
+      "jobs_found": 321,
       "resumes_tailored": 16,
+      "outreach_drafted": 0
+    },
+    {
+      "date": "2026-02-18",
+      "jobs_found": 381,
+      "resumes_tailored": 15,
       "outreach_drafted": 0
     }
   ],
   "top_companies": [
     {
       "company": "Amazon.com",
-      "count": 40
+      "count": 44
     },
     {
       "company": "Genpact",
+      "count": 26
+    },
+    {
+      "company": "Barclays",
+      "count": 16
+    },
+    {
+      "company": "JLL",
+      "count": 14
+    },
+    {
+      "company": "Standard Chartered Bank",
       "count": 13
+    },
+    {
+      "company": "Accenture",
+      "count": 13
+    },
+    {
+      "company": "",
+      "count": 12
+    },
+    {
+      "company": "Deutsche Bank",
+      "count": 10
+    },
+    {
+      "company": "Microsoft",
+      "count": 10
+    },
+    {
+      "company": "HSBC",
+      "count": 10
+    },
+    {
+      "company": "Procore Technologies",
+      "count": 9
     },
     {
       "company": "Smart Joules",
       "count": 9
     },
     {
-      "company": "Accenture",
-      "count": 9
-    },
-    {
-      "company": "Deutsche Bank",
+      "company": "GSK",
       "count": 8
     },
     {
-      "company": "",
+      "company": "Wipro",
       "count": 7
     },
     {
-      "company": "JLL",
-      "count": 7
-    },
-    {
-      "company": "Procore Technologies",
-      "count": 7
-    },
-    {
-      "company": "Brisk Olive Business Solutions Pvt Ltd",
-      "count": 5
-    },
-    {
-      "company": "Amazon Web Services",
-      "count": 5
-    },
-    {
-      "company": "smiles.ai",
-      "count": 5
-    },
-    {
-      "company": "Infosys",
-      "count": 4
-    },
-    {
-      "company": "PwC",
-      "count": 4
-    },
-    {
-      "company": "Microsoft",
-      "count": 4
-    },
-    {
-      "company": "Deloitte",
-      "count": 4
+      "company": "Optum",
+      "count": 6
     }
   ],
   "salary": {
