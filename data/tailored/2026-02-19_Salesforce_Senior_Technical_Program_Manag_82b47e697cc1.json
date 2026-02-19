@@ -1,0 +1,118 @@
+{
+  "job_id": "82b47e697cc1",
+  "job_title": "Senior Technical Program Management (TPM) - Trailhead Product",
+  "company": "Salesforce",
+  "job_url": "https://in.indeed.com/viewjob?jk=4367bf754fe9743e",
+  "tailored_at": "2026-02-19T05:50:13.250524+00:00",
+  "resume": {
+    "name": "Harsh Vardhan Mourya",
+    "title": "Senior Program Manager | Growth & P&L",
+    "contact": {
+      "email": "nitrharsh@gmail.com",
+      "phone": "+91 8639464952",
+      "linkedin": "https://linkedin.com/in/harshnitrr/",
+      "website": "https://harshvm59.github.io/harshvardhanmourya/",
+      "location": "Pune, India"
+    },
+    "summary": "Senior Program Manager at Zomato with 6+ years of experience in P&L ownership, growth strategy, user acquisition, and marketplace operations. Launched 5 new localities generating ~3K orders/month, acquired 30K users in a single month, and built AI-powered tools. Engineering background from NIT Raipur with a builder mindset \u2014 side ventures include a $2K/month Airbnb business and a $141K global investment portfolio.",
+    "experience": [
+      {
+        "company": "Zomato (Eternal Ltd)",
+        "role": "Senior Program Manager \u2014 Profit & Growth",
+        "period": "Aug 2024 \u2013 Present",
+        "location": "Pune, India",
+        "bullets": [
+          "Own city-level P&L for Pune metro; drive growth strategy impacting 2M+ users across food delivery and quick commerce",
+          "Launched 5 new localities from scratch, scaling to ~3,000 orders/month within first quarter",
+          "Acquired 30,000 new users in a single month through targeted user acquisition campaigns and novel use cases (Bappa Da Prasad, Faral Store)",
+          "Led Category Penetration initiatives for Cakes & Mithai, contributing to a ~$50M business vertical",
+          "Built RCA dashboards using SQL + Tableau, reducing decision latency from 3 days to same-day for a 40+ person ops team"
+        ],
+        "tailorable_indices": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "company": "Zomato (Eternal Ltd)",
+        "role": "Senior Business Growth Analyst",
+        "period": "Jun 2022 \u2013 Jul 2024",
+        "location": "Pune, India",
+        "bullets": [
+          "Drove 3% market share shift through data-driven user acquisition strategy combining pricing, promotions, and targeted outreach",
+          "Scaled GMV from $0 to $50K and $100K to $1M across new verticals and geographies",
+          "Reduced per-order cost by Rs.1 through operational efficiency improvements and vendor negotiation",
+          "Built automated reporting pipelines using SQL and Google App Scripts, saving 15+ hours/week for the analytics team"
+        ],
+        "tailorable_indices": [
+          0,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "company": "Urban Company",
+        "role": "Senior Manager \u2014 Strategy, Planning & Operations",
+        "period": "Mar 2019 \u2013 Jun 2022",
+        "location": "Hyderabad, India",
+        "bullets": [
+          "Managed end-to-end P&L for AC services vertical; acquired 11,000+ service partners delivering 2M+ services at 45% NPS",
+          "Generated Rs.7.5+ crore revenue from 9,000+ partner subscriptions through a novel SaaS-like model",
+          "Scaled demand & supply 6x (500 to 1,200+ active partners) through strategic expansion and partner enablement",
+          "Won UC Champion Award and Heavy Lifter recognition for driving 6 consecutive promotions across the team"
+        ],
+        "tailorable_indices": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "skills": {
+      "strategy": [
+        "P&L Management",
+        "Growth Strategy",
+        "User Acquisition",
+        "Market Expansion",
+        "Competitive Analysis",
+        "Category Penetration",
+        "Go-to-Market Strategy"
+      ],
+      "technical": [
+        "SQL (Advanced)",
+        "Tableau",
+        "Excel (Advanced)",
+        "Python",
+        "JavaScript",
+        "Google App Scripts",
+        "AI Tools (Claude, GPT, MCP Agents)"
+      ],
+      "leadership": [
+        "Cross-functional Leadership",
+        "Stakeholder Management",
+        "Team Building (7K+ jobs created)",
+        "OKR Framework",
+        "Program Management"
+      ]
+    },
+    "education": {
+      "degree": "B.E. Mechanical Engineering",
+      "institution": "National Institute of Technology, Raipur",
+      "year": "2014 \u2013 2018",
+      "highlights": [
+        "Captained 25-member Formula Student (SUPRA) race car team"
+      ]
+    },
+    "side_projects": [
+      "VAULT by HVM: Personal finance intelligence dashboard (vanilla JS, Chart.js, GitHub Pages)",
+      "Airbnb Business: $2,000/month recurring revenue from short-term rental operations (2+ years)",
+      "Global Investment Portfolio: Scaled $0 to $141K at 67% XIRR across US stocks, Indian MFs, crypto, gold",
+      "AI Tools: Built Claude MCP agents, GPT-powered automation tools, Telegram bots"
+    ]
+  }
+}
