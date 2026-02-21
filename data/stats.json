@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-02-20T05:31:22.316576+00:00",
+  "last_updated": "2026-02-21T05:09:04.750762+00:00",
   "hero": {
-    "total_jobs": 1411,
-    "new_today": 374,
-    "resumes_tailored": 64,
+    "total_jobs": 1730,
+    "new_today": 368,
+    "resumes_tailored": 75,
     "outreach_sent": 0,
     "outreach_pending": 0,
-    "tailored_files": 80
+    "tailored_files": 100
   },
   "funnel": {
-    "discovered": 1411,
-    "relevant_50plus": 209,
-    "tailored": 64,
+    "discovered": 1730,
+    "relevant_50plus": 256,
+    "tailored": 75,
     "outreach_drafted": 0,
     "outreach_sent": 0,
     "applied": 0,
@@ -20,36 +20,30 @@
   "score_distribution": {
     "90-100": 0,
     "70-89": 8,
-    "50-69": 201,
-    "30-49": 1202,
+    "50-69": 248,
+    "30-49": 1474,
     "0-29": 0
   },
   "source_breakdown": {
-    "indeed": 1309,
-    "linkedin": 102
+    "indeed": 1608,
+    "linkedin": 122
   },
   "location_breakdown": {
-    "MH": 476,
-    "KA": 302,
-    "TS": 241,
-    "HR": 118,
-    "DL": 93,
-    "UP": 64,
-    "Bengaluru": 38,
-    "Mumbai": 14,
-    "Unknown": 11,
-    "Gurugram": 8
+    "MH": 588,
+    "KA": 361,
+    "TS": 286,
+    "HR": 169,
+    "DL": 107,
+    "UP": 80,
+    "Bengaluru": 41,
+    "Mumbai": 17,
+    "Unknown": 14,
+    "Hyderabad": 13
   },
   "status_pipeline": {
-    "new": 1411
+    "new": 1730
   },
   "daily_activity": [
-    {
-      "date": "2026-02-07",
-      "jobs_found": 0,
-      "resumes_tailored": 0,
-      "outreach_drafted": 0
-    },
     {
       "date": "2026-02-08",
       "jobs_found": 0,
@@ -100,31 +94,37 @@
     },
     {
       "date": "2026-02-16",
-      "jobs_found": 70,
+      "jobs_found": 69,
       "resumes_tailored": 5,
       "outreach_drafted": 0
     },
     {
       "date": "2026-02-17",
-      "jobs_found": 318,
+      "jobs_found": 317,
       "resumes_tailored": 16,
       "outreach_drafted": 0
     },
     {
       "date": "2026-02-18",
-      "jobs_found": 335,
+      "jobs_found": 334,
       "resumes_tailored": 9,
       "outreach_drafted": 0
     },
     {
       "date": "2026-02-19",
-      "jobs_found": 314,
+      "jobs_found": 311,
       "resumes_tailored": 14,
       "outreach_drafted": 0
     },
     {
       "date": "2026-02-20",
-      "jobs_found": 374,
+      "jobs_found": 331,
+      "resumes_tailored": 11,
+      "outreach_drafted": 0
+    },
+    {
+      "date": "2026-02-21",
+      "jobs_found": 368,
       "resumes_tailored": 20,
       "outreach_drafted": 0
     }
@@ -132,42 +132,50 @@
   "top_companies": [
     {
       "company": "Amazon.com",
-      "count": 60
-    },
-    {
-      "company": "EY",
-      "count": 42
+      "count": 69
     },
     {
       "company": "Genpact",
-      "count": 39
+      "count": 47
     },
     {
-      "company": "Accenture",
-      "count": 32
+      "company": "EY",
+      "count": 46
     },
     {
       "company": "Barclays",
-      "count": 29
+      "count": 37
+    },
+    {
+      "company": "Accenture",
+      "count": 36
     },
     {
       "company": "JLL",
-      "count": 22
+      "count": 32
+    },
+    {
+      "company": "",
+      "count": 23
     },
     {
       "company": "Deutsche Bank",
-      "count": 19
+      "count": 20
     },
     {
       "company": "Standard Chartered Bank",
       "count": 19
     },
     {
-      "company": "",
-      "count": 16
+      "company": "Amazon Web Services",
+      "count": 18
     },
     {
       "company": "HSBC",
+      "count": 16
+    },
+    {
+      "company": "Google",
       "count": 14
     },
     {
@@ -176,19 +184,11 @@
     },
     {
       "company": "Deloitte",
-      "count": 11
-    },
-    {
-      "company": "Wipro",
-      "count": 11
-    },
-    {
-      "company": "Optum",
-      "count": 10
+      "count": 13
     },
     {
       "company": "Aditya Birla Group",
-      "count": 10
+      "count": 13
     }
   ],
   "salary": {
