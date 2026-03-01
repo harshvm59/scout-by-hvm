@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-02-28T04:53:39.565079+00:00",
+  "last_updated": "2026-03-01T05:32:19.582257+00:00",
   "hero": {
     "total_jobs": 3424,
-    "new_today": 375,
-    "resumes_tailored": 151,
+    "new_today": 0,
+    "resumes_tailored": 171,
     "outreach_sent": 0,
     "outreach_pending": 0,
-    "tailored_files": 240
+    "tailored_files": 260
   },
   "funnel": {
     "discovered": 3424,
     "relevant_50plus": 521,
-    "tailored": 151,
+    "tailored": 171,
     "outreach_drafted": 0,
     "outreach_sent": 0,
     "applied": 0,
@@ -45,12 +45,6 @@
   },
   "daily_activity": [
     {
-      "date": "2026-02-15",
-      "jobs_found": 0,
-      "resumes_tailored": 0,
-      "outreach_drafted": 0
-    },
-    {
       "date": "2026-02-16",
       "jobs_found": 69,
       "resumes_tailored": 5,
@@ -83,37 +77,37 @@
     {
       "date": "2026-02-21",
       "jobs_found": 303,
-      "resumes_tailored": 18,
+      "resumes_tailored": 20,
       "outreach_drafted": 0
     },
     {
       "date": "2026-02-22",
       "jobs_found": 83,
-      "resumes_tailored": 3,
+      "resumes_tailored": 5,
       "outreach_drafted": 0
     },
     {
       "date": "2026-02-23",
       "jobs_found": 74,
-      "resumes_tailored": 1,
+      "resumes_tailored": 2,
       "outreach_drafted": 0
     },
     {
       "date": "2026-02-24",
       "jobs_found": 294,
-      "resumes_tailored": 7,
+      "resumes_tailored": 12,
       "outreach_drafted": 0
     },
     {
       "date": "2026-02-25",
       "jobs_found": 322,
-      "resumes_tailored": 11,
+      "resumes_tailored": 14,
       "outreach_drafted": 0
     },
     {
       "date": "2026-02-26",
       "jobs_found": 347,
-      "resumes_tailored": 6,
+      "resumes_tailored": 11,
       "outreach_drafted": 0
     },
     {
@@ -125,7 +119,13 @@
     {
       "date": "2026-02-28",
       "jobs_found": 375,
-      "resumes_tailored": 20,
+      "resumes_tailored": 22,
+      "outreach_drafted": 0
+    },
+    {
+      "date": "2026-03-01",
+      "jobs_found": 0,
+      "resumes_tailored": 0,
       "outreach_drafted": 0
     }
   ],
