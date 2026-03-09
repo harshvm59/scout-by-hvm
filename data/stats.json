@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-03-08T05:12:02.793320+00:00",
+  "last_updated": "2026-03-09T05:29:58.659117+00:00",
   "hero": {
-    "total_jobs": 4854,
-    "new_today": 144,
-    "resumes_tailored": 254,
+    "total_jobs": 4898,
+    "new_today": 108,
+    "resumes_tailored": 265,
     "outreach_sent": 0,
     "outreach_pending": 0,
-    "tailored_files": 400
+    "tailored_files": 420
   },
   "funnel": {
-    "discovered": 4854,
-    "relevant_50plus": 730,
-    "tailored": 254,
+    "discovered": 4898,
+    "relevant_50plus": 732,
+    "tailored": 265,
     "outreach_drafted": 0,
     "outreach_sent": 0,
     "applied": 0,
@@ -19,37 +19,31 @@
   },
   "score_distribution": {
     "90-100": 0,
-    "70-89": 17,
-    "50-69": 713,
-    "30-49": 4124,
+    "70-89": 18,
+    "50-69": 714,
+    "30-49": 4166,
     "0-29": 0
   },
   "source_breakdown": {
-    "indeed": 4485,
-    "linkedin": 369
+    "indeed": 4525,
+    "linkedin": 373
   },
   "location_breakdown": {
-    "MH": 1538,
-    "KA": 1012,
-    "TS": 811,
-    "HR": 508,
-    "DL": 330,
-    "UP": 262,
-    "Bengaluru": 127,
-    "Mumbai": 53,
+    "MH": 1549,
+    "KA": 1023,
+    "TS": 818,
+    "HR": 512,
+    "DL": 335,
+    "UP": 264,
+    "Bengaluru": 130,
+    "Mumbai": 54,
     "Hyderabad": 45,
     "Unknown": 35
   },
   "status_pipeline": {
-    "new": 4854
+    "new": 4898
   },
   "daily_activity": [
-    {
-      "date": "2026-02-23",
-      "jobs_found": 69,
-      "resumes_tailored": 2,
-      "outreach_drafted": 0
-    },
     {
       "date": "2026-02-24",
       "jobs_found": 287,
@@ -58,7 +52,7 @@
     },
     {
       "date": "2026-02-25",
-      "jobs_found": 318,
+      "jobs_found": 317,
       "resumes_tailored": 14,
       "outreach_drafted": 0
     },
@@ -70,13 +64,13 @@
     },
     {
       "date": "2026-02-27",
-      "jobs_found": 290,
+      "jobs_found": 289,
       "resumes_tailored": 13,
       "outreach_drafted": 0
     },
     {
       "date": "2026-02-28",
-      "jobs_found": 303,
+      "jobs_found": 300,
       "resumes_tailored": 21,
       "outreach_drafted": 0
     },
@@ -112,19 +106,25 @@
     },
     {
       "date": "2026-03-06",
-      "jobs_found": 288,
-      "resumes_tailored": 8,
+      "jobs_found": 286,
+      "resumes_tailored": 13,
       "outreach_drafted": 0
     },
     {
       "date": "2026-03-07",
       "jobs_found": 249,
-      "resumes_tailored": 8,
+      "resumes_tailored": 13,
       "outreach_drafted": 0
     },
     {
       "date": "2026-03-08",
-      "jobs_found": 144,
+      "jobs_found": 91,
+      "resumes_tailored": 2,
+      "outreach_drafted": 0
+    },
+    {
+      "date": "2026-03-09",
+      "jobs_found": 108,
       "resumes_tailored": 9,
       "outreach_drafted": 0
     }
@@ -132,7 +132,7 @@
   "top_companies": [
     {
       "company": "Amazon.com",
-      "count": 129
+      "count": 130
     },
     {
       "company": "Barclays",
@@ -159,11 +159,11 @@
       "count": 61
     },
     {
-      "company": "",
-      "count": 58
+      "company": "HSBC",
+      "count": 59
     },
     {
-      "company": "HSBC",
+      "company": "",
       "count": 58
     },
     {
@@ -187,8 +187,8 @@
       "count": 33
     },
     {
-      "company": "Amgen",
-      "count": 32
+      "company": "Microsoft",
+      "count": 33
     }
   ],
   "salary": {
