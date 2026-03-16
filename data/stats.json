@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-03-15T03:49:12.976524+00:00",
+  "last_updated": "2026-03-16T03:52:14.400699+00:00",
   "hero": {
-    "total_jobs": 6162,
-    "new_today": 177,
-    "resumes_tailored": 320,
+    "total_jobs": 6256,
+    "new_today": 164,
+    "resumes_tailored": 329,
     "outreach_sent": 0,
     "outreach_pending": 0,
-    "tailored_files": 520
+    "tailored_files": 540
   },
   "funnel": {
-    "discovered": 6162,
-    "relevant_50plus": 911,
-    "tailored": 320,
+    "discovered": 6256,
+    "relevant_50plus": 923,
+    "tailored": 329,
     "outreach_drafted": 0,
     "outreach_sent": 0,
     "applied": 0,
@@ -20,37 +20,31 @@
   "score_distribution": {
     "90-100": 0,
     "70-89": 20,
-    "50-69": 891,
-    "30-49": 5251,
+    "50-69": 903,
+    "30-49": 5333,
     "0-29": 0
   },
   "source_breakdown": {
-    "indeed": 5688,
-    "linkedin": 460,
+    "indeed": 5780,
+    "linkedin": 462,
     "google": 14
   },
   "location_breakdown": {
-    "MH": 1987,
-    "KA": 1257,
-    "TS": 995,
-    "HR": 655,
-    "DL": 431,
-    "UP": 338,
+    "MH": 2005,
+    "KA": 1281,
+    "TS": 1013,
+    "HR": 662,
+    "DL": 443,
+    "UP": 351,
     "Bengaluru": 167,
     "Mumbai": 68,
     "Hyderabad": 53,
     "Unknown": 45
   },
   "status_pipeline": {
-    "new": 6162
+    "new": 6256
   },
   "daily_activity": [
-    {
-      "date": "2026-03-02",
-      "jobs_found": 44,
-      "resumes_tailored": 4,
-      "outreach_drafted": 0
-    },
     {
       "date": "2026-03-03",
       "jobs_found": 319,
@@ -113,19 +107,25 @@
     },
     {
       "date": "2026-03-13",
-      "jobs_found": 316,
-      "resumes_tailored": 16,
+      "jobs_found": 315,
+      "resumes_tailored": 21,
       "outreach_drafted": 0
     },
     {
       "date": "2026-03-14",
-      "jobs_found": 279,
-      "resumes_tailored": 8,
+      "jobs_found": 278,
+      "resumes_tailored": 9,
       "outreach_drafted": 0
     },
     {
       "date": "2026-03-15",
-      "jobs_found": 177,
+      "jobs_found": 118,
+      "resumes_tailored": 4,
+      "outreach_drafted": 0
+    },
+    {
+      "date": "2026-03-16",
+      "jobs_found": 164,
       "resumes_tailored": 14,
       "outreach_drafted": 0
     }
@@ -140,12 +140,16 @@
       "count": 143
     },
     {
+      "company": "EY",
+      "count": 124
+    },
+    {
       "company": "Genpact",
       "count": 122
     },
     {
       "company": "Deloitte",
-      "count": 103
+      "count": 104
     },
     {
       "company": "JLL",
@@ -172,10 +176,6 @@
       "count": 67
     },
     {
-      "company": "EY",
-      "count": 57
-    },
-    {
       "company": "Google",
       "count": 54
     },
@@ -185,10 +185,10 @@
     },
     {
       "company": "PwC",
-      "count": 40
+      "count": 41
     },
     {
-      "company": "WSP",
+      "company": "Optum",
       "count": 38
     }
   ],
