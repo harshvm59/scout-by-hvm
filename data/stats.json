@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-03-17T03:30:35.788429+00:00",
+  "last_updated": "2026-03-18T03:38:13.708558+00:00",
   "hero": {
-    "total_jobs": 6565,
-    "new_today": 414,
-    "resumes_tailored": 333,
+    "total_jobs": 6819,
+    "new_today": 356,
+    "resumes_tailored": 344,
     "outreach_sent": 0,
     "outreach_pending": 0,
-    "tailored_files": 560
+    "tailored_files": 580
   },
   "funnel": {
-    "discovered": 6565,
-    "relevant_50plus": 969,
-    "tailored": 333,
+    "discovered": 6819,
+    "relevant_50plus": 1006,
+    "tailored": 344,
     "outreach_drafted": 0,
     "outreach_sent": 0,
     "applied": 0,
@@ -19,47 +19,41 @@
   },
   "score_distribution": {
     "90-100": 0,
-    "70-89": 24,
-    "50-69": 945,
-    "30-49": 5596,
+    "70-89": 25,
+    "50-69": 981,
+    "30-49": 5813,
     "0-29": 0
   },
   "source_breakdown": {
-    "indeed": 6067,
-    "linkedin": 484,
+    "indeed": 6300,
+    "linkedin": 505,
     "google": 14
   },
   "location_breakdown": {
-    "MH": 2104,
-    "KA": 1351,
-    "TS": 1051,
-    "HR": 701,
-    "DL": 470,
-    "UP": 365,
-    "Bengaluru": 169,
-    "Mumbai": 73,
-    "Hyderabad": 53,
-    "Unknown": 48
+    "MH": 2185,
+    "KA": 1401,
+    "TS": 1098,
+    "HR": 729,
+    "DL": 484,
+    "UP": 378,
+    "Bengaluru": 176,
+    "Mumbai": 76,
+    "Hyderabad": 55,
+    "Unknown": 49
   },
   "status_pipeline": {
-    "new": 6565
+    "new": 6819
   },
   "daily_activity": [
     {
-      "date": "2026-03-04",
-      "jobs_found": 273,
-      "resumes_tailored": 20,
-      "outreach_drafted": 0
-    },
-    {
       "date": "2026-03-05",
-      "jobs_found": 227,
+      "jobs_found": 223,
       "resumes_tailored": 11,
       "outreach_drafted": 0
     },
     {
       "date": "2026-03-06",
-      "jobs_found": 274,
+      "jobs_found": 272,
       "resumes_tailored": 12,
       "outreach_drafted": 0
     },
@@ -77,19 +71,19 @@
     },
     {
       "date": "2026-03-09",
-      "jobs_found": 52,
+      "jobs_found": 51,
       "resumes_tailored": 2,
       "outreach_drafted": 0
     },
     {
       "date": "2026-03-10",
-      "jobs_found": 333,
+      "jobs_found": 332,
       "resumes_tailored": 20,
       "outreach_drafted": 0
     },
     {
       "date": "2026-03-11",
-      "jobs_found": 325,
+      "jobs_found": 323,
       "resumes_tailored": 13,
       "outreach_drafted": 0
     },
@@ -101,31 +95,37 @@
     },
     {
       "date": "2026-03-13",
-      "jobs_found": 314,
-      "resumes_tailored": 21,
+      "jobs_found": 313,
+      "resumes_tailored": 20,
       "outreach_drafted": 0
     },
     {
       "date": "2026-03-14",
-      "jobs_found": 278,
+      "jobs_found": 275,
       "resumes_tailored": 9,
       "outreach_drafted": 0
     },
     {
       "date": "2026-03-15",
-      "jobs_found": 113,
-      "resumes_tailored": 4,
+      "jobs_found": 111,
+      "resumes_tailored": 3,
       "outreach_drafted": 0
     },
     {
       "date": "2026-03-16",
-      "jobs_found": 98,
+      "jobs_found": 97,
       "resumes_tailored": 4,
       "outreach_drafted": 0
     },
     {
       "date": "2026-03-17",
-      "jobs_found": 414,
+      "jobs_found": 350,
+      "resumes_tailored": 13,
+      "outreach_drafted": 0
+    },
+    {
+      "date": "2026-03-18",
+      "jobs_found": 356,
       "resumes_tailored": 20,
       "outreach_drafted": 0
     }
@@ -133,47 +133,47 @@
   "top_companies": [
     {
       "company": "Amazon.com",
-      "count": 176
+      "count": 187
+    },
+    {
+      "company": "Barclays",
+      "count": 158
     },
     {
       "company": "EY",
       "count": 156
     },
     {
-      "company": "Barclays",
-      "count": 149
-    },
-    {
       "company": "Genpact",
-      "count": 131
+      "count": 138
     },
     {
       "company": "Deloitte",
-      "count": 111
+      "count": 117
     },
     {
       "company": "JLL",
-      "count": 105
+      "count": 108
     },
     {
       "company": "Accenture",
-      "count": 101
+      "count": 103
     },
     {
       "company": "",
-      "count": 81
+      "count": 83
     },
     {
       "company": "HSBC",
-      "count": 76
+      "count": 78
     },
     {
       "company": "Standard Chartered Bank",
-      "count": 74
+      "count": 77
     },
     {
       "company": "JPMorganChase",
-      "count": 68
+      "count": 69
     },
     {
       "company": "Google",
@@ -181,15 +181,15 @@
     },
     {
       "company": "Deutsche Bank",
-      "count": 49
+      "count": 51
     },
     {
       "company": "PwC",
-      "count": 42
+      "count": 43
     },
     {
       "company": "Optum",
-      "count": 40
+      "count": 42
     }
   ],
   "salary": {
