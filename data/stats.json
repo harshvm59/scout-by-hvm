@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-04-10T03:59:34.723808+00:00",
+  "last_updated": "2026-04-11T03:36:36.559150+00:00",
   "hero": {
-    "total_jobs": 11614,
-    "new_today": 361,
-    "resumes_tailored": 556,
+    "total_jobs": 11876,
+    "new_today": 380,
+    "resumes_tailored": 566,
     "outreach_sent": 0,
     "outreach_pending": 0,
-    "tailored_files": 1040
+    "tailored_files": 1060
   },
   "funnel": {
-    "discovered": 11614,
-    "relevant_50plus": 1753,
-    "tailored": 556,
+    "discovered": 11876,
+    "relevant_50plus": 1791,
+    "tailored": 566,
     "outreach_drafted": 0,
     "outreach_sent": 0,
     "applied": 0,
@@ -19,38 +19,32 @@
   },
   "score_distribution": {
     "90-100": 0,
-    "70-89": 39,
-    "50-69": 1714,
-    "30-49": 9861,
+    "70-89": 43,
+    "50-69": 1748,
+    "30-49": 10085,
     "0-29": 0
   },
   "source_breakdown": {
-    "indeed": 10799,
-    "linkedin": 798,
+    "indeed": 11041,
+    "linkedin": 818,
     "google": 17
   },
   "location_breakdown": {
-    "MH": 3848,
-    "KA": 2331,
-    "TS": 1832,
-    "HR": 1237,
-    "DL": 846,
-    "UP": 671,
-    "Bengaluru": 254,
-    "Mumbai": 111,
-    "Hyderabad": 88,
-    "Unknown": 80
+    "MH": 3939,
+    "KA": 2383,
+    "TS": 1867,
+    "HR": 1268,
+    "DL": 865,
+    "UP": 685,
+    "Bengaluru": 257,
+    "Mumbai": 116,
+    "Hyderabad": 90,
+    "Unknown": 81
   },
   "status_pipeline": {
-    "new": 11614
+    "new": 11876
   },
   "daily_activity": [
-    {
-      "date": "2026-03-28",
-      "jobs_found": 275,
-      "resumes_tailored": 11,
-      "outreach_drafted": 0
-    },
     {
       "date": "2026-03-29",
       "jobs_found": 83,
@@ -65,7 +59,7 @@
     },
     {
       "date": "2026-03-31",
-      "jobs_found": 280,
+      "jobs_found": 277,
       "resumes_tailored": 13,
       "outreach_drafted": 0
     },
@@ -89,8 +83,8 @@
     },
     {
       "date": "2026-04-04",
-      "jobs_found": 187,
-      "resumes_tailored": 12,
+      "jobs_found": 185,
+      "resumes_tailored": 11,
       "outreach_drafted": 0
     },
     {
@@ -107,8 +101,8 @@
     },
     {
       "date": "2026-04-07",
-      "jobs_found": 315,
-      "resumes_tailored": 13,
+      "jobs_found": 312,
+      "resumes_tailored": 12,
       "outreach_drafted": 0
     },
     {
@@ -119,41 +113,47 @@
     },
     {
       "date": "2026-04-09",
-      "jobs_found": 385,
+      "jobs_found": 379,
       "resumes_tailored": 13,
       "outreach_drafted": 0
     },
     {
       "date": "2026-04-10",
-      "jobs_found": 361,
-      "resumes_tailored": 19,
+      "jobs_found": 290,
+      "resumes_tailored": 13,
+      "outreach_drafted": 0
+    },
+    {
+      "date": "2026-04-11",
+      "jobs_found": 380,
+      "resumes_tailored": 18,
       "outreach_drafted": 0
     }
   ],
   "top_companies": [
     {
       "company": "Amazon.com",
-      "count": 288
+      "count": 293
     },
     {
       "company": "EY",
-      "count": 280
+      "count": 284
     },
     {
       "company": "Genpact",
-      "count": 269
+      "count": 276
     },
     {
       "company": "Barclays",
-      "count": 239
+      "count": 241
     },
     {
       "company": "Deloitte",
-      "count": 204
+      "count": 216
     },
     {
       "company": "Accenture",
-      "count": 186
+      "count": 197
     },
     {
       "company": "JLL",
@@ -161,35 +161,35 @@
     },
     {
       "company": "HSBC",
-      "count": 132
+      "count": 135
     },
     {
       "company": "",
-      "count": 126
+      "count": 130
     },
     {
       "company": "JPMorganChase",
-      "count": 120
+      "count": 125
     },
     {
       "company": "Standard Chartered Bank",
-      "count": 118
+      "count": 119
     },
     {
       "company": "Google",
-      "count": 98
+      "count": 103
     },
     {
       "company": "Mastercard",
-      "count": 91
+      "count": 92
     },
     {
       "company": "Deutsche Bank",
-      "count": 78
+      "count": 82
     },
     {
       "company": "Wipro",
-      "count": 75
+      "count": 76
     }
   ],
   "salary": {
