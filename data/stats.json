@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-04-19T04:04:17.004236+00:00",
+  "last_updated": "2026-04-20T04:06:19.388392+00:00",
   "hero": {
-    "total_jobs": 13367,
-    "new_today": 173,
-    "resumes_tailored": 642,
+    "total_jobs": 13408,
+    "new_today": 118,
+    "resumes_tailored": 650,
     "outreach_sent": 0,
     "outreach_pending": 0,
-    "tailored_files": 1220
+    "tailored_files": 1240
   },
   "funnel": {
-    "discovered": 13367,
-    "relevant_50plus": 2055,
-    "tailored": 642,
+    "discovered": 13408,
+    "relevant_50plus": 2065,
+    "tailored": 650,
     "outreach_drafted": 0,
     "outreach_sent": 0,
     "applied": 0,
@@ -20,37 +20,31 @@
   "score_distribution": {
     "90-100": 0,
     "70-89": 49,
-    "50-69": 2006,
-    "30-49": 11312,
+    "50-69": 2016,
+    "30-49": 11343,
     "0-29": 0
   },
   "source_breakdown": {
-    "indeed": 12428,
-    "linkedin": 911,
+    "indeed": 12465,
+    "linkedin": 915,
     "google": 28
   },
   "location_breakdown": {
-    "MH": 4458,
-    "KA": 2652,
-    "TS": 2125,
-    "HR": 1413,
-    "DL": 974,
-    "UP": 771,
+    "MH": 4472,
+    "KA": 2661,
+    "TS": 2129,
+    "HR": 1416,
+    "DL": 977,
+    "UP": 775,
     "Bengaluru": 283,
     "Mumbai": 124,
-    "Hyderabad": 101,
-    "Unknown": 90
+    "Hyderabad": 102,
+    "Unknown": 92
   },
   "status_pipeline": {
-    "new": 13367
+    "new": 13408
   },
   "daily_activity": [
-    {
-      "date": "2026-04-06",
-      "jobs_found": 31,
-      "resumes_tailored": 0,
-      "outreach_drafted": 0
-    },
     {
       "date": "2026-04-07",
       "jobs_found": 301,
@@ -107,7 +101,7 @@
     },
     {
       "date": "2026-04-16",
-      "jobs_found": 325,
+      "jobs_found": 323,
       "resumes_tailored": 18,
       "outreach_drafted": 0
     },
@@ -125,8 +119,14 @@
     },
     {
       "date": "2026-04-19",
-      "jobs_found": 173,
-      "resumes_tailored": 13,
+      "jobs_found": 103,
+      "resumes_tailored": 2,
+      "outreach_drafted": 0
+    },
+    {
+      "date": "2026-04-20",
+      "jobs_found": 118,
+      "resumes_tailored": 12,
       "outreach_drafted": 0
     }
   ],
@@ -161,7 +161,7 @@
     },
     {
       "company": "",
-      "count": 151
+      "count": 152
     },
     {
       "company": "HSBC",
