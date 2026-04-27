@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-04-26T04:12:03.521143+00:00",
+  "last_updated": "2026-04-27T04:15:31.805347+00:00",
   "hero": {
-    "total_jobs": 14800,
-    "new_today": 183,
-    "resumes_tailored": 697,
+    "total_jobs": 14838,
+    "new_today": 112,
+    "resumes_tailored": 708,
     "outreach_sent": 0,
     "outreach_pending": 0,
-    "tailored_files": 1360
+    "tailored_files": 1380
   },
   "funnel": {
-    "discovered": 14800,
-    "relevant_50plus": 2281,
-    "tailored": 697,
+    "discovered": 14838,
+    "relevant_50plus": 2288,
+    "tailored": 708,
     "outreach_drafted": 0,
     "outreach_sent": 0,
     "applied": 0,
@@ -20,37 +20,31 @@
   "score_distribution": {
     "90-100": 0,
     "70-89": 54,
-    "50-69": 2227,
-    "30-49": 12519,
+    "50-69": 2234,
+    "30-49": 12550,
     "0-29": 0
   },
   "source_breakdown": {
-    "indeed": 13777,
-    "linkedin": 995,
+    "indeed": 13810,
+    "linkedin": 1000,
     "google": 28
   },
   "location_breakdown": {
-    "MH": 4959,
-    "KA": 2952,
-    "TS": 2337,
-    "HR": 1568,
-    "DL": 1082,
+    "MH": 4969,
+    "KA": 2966,
+    "TS": 2338,
+    "HR": 1574,
+    "DL": 1084,
     "UP": 844,
-    "Bengaluru": 308,
+    "Bengaluru": 309,
     "Mumbai": 132,
     "Hyderabad": 110,
-    "Unknown": 102
+    "Unknown": 103
   },
   "status_pipeline": {
-    "new": 14800
+    "new": 14838
   },
   "daily_activity": [
-    {
-      "date": "2026-04-13",
-      "jobs_found": 53,
-      "resumes_tailored": 1,
-      "outreach_drafted": 0
-    },
     {
       "date": "2026-04-14",
       "jobs_found": 285,
@@ -108,25 +102,31 @@
     {
       "date": "2026-04-23",
       "jobs_found": 363,
-      "resumes_tailored": 18,
+      "resumes_tailored": 20,
       "outreach_drafted": 0
     },
     {
       "date": "2026-04-24",
       "jobs_found": 292,
-      "resumes_tailored": 5,
+      "resumes_tailored": 8,
       "outreach_drafted": 0
     },
     {
       "date": "2026-04-25",
       "jobs_found": 319,
-      "resumes_tailored": 9,
+      "resumes_tailored": 10,
       "outreach_drafted": 0
     },
     {
       "date": "2026-04-26",
-      "jobs_found": 183,
-      "resumes_tailored": 13,
+      "jobs_found": 112,
+      "resumes_tailored": 4,
+      "outreach_drafted": 0
+    },
+    {
+      "date": "2026-04-27",
+      "jobs_found": 112,
+      "resumes_tailored": 14,
       "outreach_drafted": 0
     }
   ],
@@ -149,7 +149,7 @@
     },
     {
       "company": "Deloitte",
-      "count": 263
+      "count": 264
     },
     {
       "company": "Accenture",
@@ -161,11 +161,11 @@
     },
     {
       "company": "",
-      "count": 170
+      "count": 171
     },
     {
       "company": "HSBC",
-      "count": 160
+      "count": 161
     },
     {
       "company": "JPMorganChase",
@@ -189,7 +189,7 @@
     },
     {
       "company": "Deutsche Bank",
-      "count": 97
+      "count": 98
     }
   ],
   "salary": {
