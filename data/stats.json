@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-05-03T04:36:58.014465+00:00",
+  "last_updated": "2026-05-04T04:35:58.147310+00:00",
   "hero": {
-    "total_jobs": 16000,
-    "new_today": 171,
-    "resumes_tailored": 764,
+    "total_jobs": 16035,
+    "new_today": 121,
+    "resumes_tailored": 773,
     "outreach_sent": 0,
     "outreach_pending": 0,
-    "tailored_files": 1500
+    "tailored_files": 1520
   },
   "funnel": {
-    "discovered": 16000,
-    "relevant_50plus": 2463,
-    "tailored": 764,
+    "discovered": 16035,
+    "relevant_50plus": 2465,
+    "tailored": 773,
     "outreach_drafted": 0,
     "outreach_sent": 0,
     "applied": 0,
@@ -20,37 +20,31 @@
   "score_distribution": {
     "90-100": 0,
     "70-89": 61,
-    "50-69": 2402,
-    "30-49": 13537,
+    "50-69": 2404,
+    "30-49": 13570,
     "0-29": 0
   },
   "source_breakdown": {
-    "indeed": 14907,
-    "linkedin": 1065,
+    "indeed": 14934,
+    "linkedin": 1073,
     "google": 28
   },
   "location_breakdown": {
-    "MH": 5365,
-    "KA": 3177,
+    "MH": 5371,
+    "KA": 3191,
     "TS": 2538,
-    "HR": 1696,
-    "DL": 1176,
-    "UP": 920,
-    "Bengaluru": 330,
+    "HR": 1699,
+    "DL": 1178,
+    "UP": 922,
+    "Bengaluru": 331,
     "Mumbai": 143,
-    "Hyderabad": 112,
+    "Hyderabad": 113,
     "Unknown": 108
   },
   "status_pipeline": {
-    "new": 16000
+    "new": 16035
   },
   "daily_activity": [
-    {
-      "date": "2026-04-20",
-      "jobs_found": 46,
-      "resumes_tailored": 1,
-      "outreach_drafted": 0
-    },
     {
       "date": "2026-04-21",
       "jobs_found": 230,
@@ -83,7 +77,7 @@
     },
     {
       "date": "2026-04-26",
-      "jobs_found": 109,
+      "jobs_found": 108,
       "resumes_tailored": 1,
       "outreach_drafted": 0
     },
@@ -107,7 +101,7 @@
     },
     {
       "date": "2026-04-30",
-      "jobs_found": 298,
+      "jobs_found": 297,
       "resumes_tailored": 12,
       "outreach_drafted": 0
     },
@@ -125,8 +119,14 @@
     },
     {
       "date": "2026-05-03",
-      "jobs_found": 171,
-      "resumes_tailored": 15,
+      "jobs_found": 95,
+      "resumes_tailored": 4,
+      "outreach_drafted": 0
+    },
+    {
+      "date": "2026-05-04",
+      "jobs_found": 121,
+      "resumes_tailored": 11,
       "outreach_drafted": 0
     }
   ],
@@ -149,7 +149,7 @@
     },
     {
       "company": "Deloitte",
-      "count": 286
+      "count": 287
     },
     {
       "company": "Accenture",
@@ -165,7 +165,7 @@
     },
     {
       "company": "HSBC",
-      "count": 165
+      "count": 166
     },
     {
       "company": "JPMorganChase",
